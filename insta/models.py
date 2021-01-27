@@ -2,7 +2,7 @@ from django.db import models
 from django.utils import timezone
 from django.contrib.auth.models import User
 from django.urls import reverse
-# from PIL import Image
+
 
 class Post(models.Model):
     image = models.ImageField(upload_to='posts/')
