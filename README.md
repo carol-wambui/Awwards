@@ -26,4 +26,3 @@ Carol Wambui
 ## License
 [![License: MIT]
 Copyright (c) 2020 Carol Wambui
-Carol  Wambui/awwards.
