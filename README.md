@@ -1,6 +1,6 @@
 # Award app
 ## Author
-* Made by,   [![CAROL WAMBUI]()]
+Carol Wambui
 
 ## Description
 * This is a web application that people post their project and given reviews and also ratings. The Awards project is designed to impress users and help them know how their project is doing in the market.
