@@ -33,11 +33,3 @@ class Post(models.Model):
 #     content =  models.IntegerField(choices=ratings, default=0)
 #     overall_score = models.IntegerField(blank=True, default=0)
 
-#     def save_rate(self):
-#             self.save()
-
-#     def delete_rate(self):
-#         self.delete()
-
-#     def get_absolute_url(self):
-#         return reverse('index')
