@@ -6,7 +6,7 @@ from .models import Post
 
 def welcome(request):
     context = {
-        'posts': post.objects.all()
+        'posts': Post.objects.all()
     }
     return render(request, 'insta/home.html', context)
 
